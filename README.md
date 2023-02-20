@@ -65,4 +65,6 @@ Implementing alternative data sets:
 
  - *Alternative Data sets provide daily and weekly consumer transactions and good movement measurments, employment trends, and other relavent macro-economic indicators and information.*
  
- 
+`Financial Landscape:`
+
+Financial Domain: 
