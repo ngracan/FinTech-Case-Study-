@@ -36,7 +36,7 @@ Quandl delivers financial, economic and alternative data to over 400,000 people 
 
 Quandl offers both free and paid for data packages. Alternative data packages for specific use come with a fee. 
 
-**Competitive Advantage**
+**Competitive Advantage:**
 
 > "When analyzing data, actual analysis usually isn't your only task -- in fact, sometimes it's not even the most daunting. Acquiring, formatting and removing errors from data can pose significant challenges (not to mention take up lots of time)" (Machlis, 2013). 
 
@@ -44,7 +44,25 @@ Quandl has disrupted the traditional means of accessing and retrieving quality d
 
 Unparalled consumption expereince offered by Quandls services can help organizations attain increased efficiences, amongst increases in other areas of KPIs as well. No more wasted time searching for, cleaning or transforming data; users go from needing data to working with data in seconds. Top-tier publishers, wide range of datasets and various tools available for consumption through Quandls services has cemented their reputuion in the industry for understanding and delivering what quantitiave analysts need (Quandl, 2023)
 
-Technology behind Quandl: 
+**Technology behind Quandl:**
 
+Quandl has intergrations with most major programing languages and analytical tools. Inclduing the following: 
+   - API
+   - R 
+   - Python 
+   - Excel 
+   - Ruby 
 
+Data is aquired through human curators pointing their bots at specific data sets, as opposed to searching the web as a whole, to then utilize pre-determined algorithms and machine learning to extract the desired unique and significant data (Machlis, 2013).  
 
+Quandl leverages technology that enables it to source, screen and analyze unique data from non-traditional publishers which fuels trading models. The data is packaged and productized into feeds that do everyhting from ehancing fundamental stratgeies to powering the most sophisticated machine learning apporches in use today (Quandl, 2023). 
+
+Implementing alternative data sets:
+
+ - *Alternative data packages derived from the use of Quandls technology enhance various trading strategies such as statistical arbitrage systematic equity. Investors leveraging broad coverage data sets offer them statistically robust trading signals on large sets of publicily tarded stocks.*
+
+ - *Investors leveraging alternative data sets provide real time insights and trade patterns data to help traders improve foecasting models.*
+
+ - *Alternative Data sets provide daily and weekly consumer transactions and good movement measurments, employment trends, and other relavent macro-economic indicators and information.*
+ 
+ 
