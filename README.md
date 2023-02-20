@@ -46,6 +46,8 @@ Unparalled consumption expereince offered by Quandls services can help organizat
 
 **Technology behind Quandl:**
 
+Quandl technology permits data access via an application program interface (API), which allows customers to customize the information in a format that is suitable for their needs (Smith, 2022). 
+
 Quandl has intergrations with most major programing languages and analytical tools. Inclduing the following: 
    - API
    - R 
@@ -68,3 +70,9 @@ Implementing alternative data sets:
 `Financial Landscape:`
 
 Financial Domain: 
+
+Quandl is a company which has excelled in the capital investment domain wihtin the financial industry. 
+
+
+
+
