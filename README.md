@@ -12,7 +12,7 @@ driving innovation in the financial industry (Lee & Shin, 2017)"
 
 Overview: 
 
-Traditonal domains wihtin the financial industry continue to be disrupted and forced to evovle in new ways due to the introduction and capablilites of new fintech techonogoly and companies entering the industry. 
+Traditional domains within the financial industry continue to be disrupted and forced to evolve in new ways due to the introduction and capablilites of new fintech technology and companies entering the industry. One Canadian Fintech company in particular that has found success in disrupting traditonal financial products and services, and that this study will be focused on, is Quandl. 
 
 
 
