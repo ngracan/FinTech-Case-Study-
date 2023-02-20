@@ -1,5 +1,5 @@
 # FinTech-Case-Study
-## Financial Technology disrupting traditional Captial Investment Services 
+## *Financial Technology disrupting traditional Captial Investment Services* 
 
 **Company of interest: Quandl** 
 
