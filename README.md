@@ -42,5 +42,9 @@ Quandl offers both free and paid for data packages. Alternative data packages fo
 
 Quandl has disrupted the traditional means of accessing and retrieving quality data - and that is what has made them successful in the market against their competetiors. Quandl offers essential financial and economic data alongside a suite of unique, alpha-generating alternative datasets. They source, evaluate, and productize undiscovered data assets and then transform the data assets into quantified, actionable intelligence for specific instituional clinets (Quandl, 2023). 
 
+Unparalled consumption expereince offered by Quandls services can help organizations attain increased efficiences, amongst increases in other areas of KPIs as well. No more wasted time searching for, cleaning or transforming data; users go from needing data to working with data in seconds. Top-tier publishers, wide range of datasets and various tools available for consumption through Quandls services has cemented their reputuion in the industry for understanding and delivering what quantitiave analysts need (Quandl, 2023)
+
+Technology behind Quandl: 
+
 
 
