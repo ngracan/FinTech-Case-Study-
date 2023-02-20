@@ -38,6 +38,9 @@ Quandl offers both free and paid for data packages. Alternative data packages fo
 
 **Competitive Advantage**
 
+> "When analyzing data, actual analysis usually isn't your only task -- in fact, sometimes it's not even the most daunting. Acquiring, formatting and removing errors from data can pose significant challenges (not to mention take up lots of time)" (Machlis, 2013). 
+
+Quandl has disrupted the traditional means of accessing and retrieving quality data - and that is what has made them successful in the market against their competetiors. Quandl offers essential financial and economic data alongside a suite of unique, alpha-generating alternative datasets. They source, evaluate, and productize undiscovered data assets and then transform the data assets into quantified, actionable intelligence for specific instituional clinets (Quandl, 2023). 
 
 
 
