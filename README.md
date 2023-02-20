@@ -7,6 +7,9 @@ Company of interest: Quandl
 
 ---
 
+> "Fintech brings about a new paradigm in which information technology is
+driving innovation in the financial industry"
+
 About Quandl: 
 
 
