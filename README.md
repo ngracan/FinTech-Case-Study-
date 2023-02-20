@@ -20,12 +20,6 @@ The idea and innovation behind this company was driven by two main beliefs held 
 
 1. Data is one of the most important resources of the 21st century (Quandl, 2023). 
 
-2. The use of data and more specifically alternative data, will become the primary driver of active investment performance over the next decade (Quandl, 2023)
+2. The use of data and more specifically alternative data, will become the primary driver of active investment performance over the next decade (Quandl, 2023).
 
-
-
-
-
-
-
-
+The funding for Quandl has been raised over 4 seperate rounds so far inclduing: Seed Round, Series A, Series B, and the latest round of funding from a Venture Series (Crunchbase, 2023). Quandl has raised a total amount of CA$20.4M in funding so far (Crunchbase, 2023). Two of the most recent investors in the company are growX ventures and August Capital. 
