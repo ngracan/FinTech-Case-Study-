@@ -93,4 +93,25 @@ Many companies and financial institutions in the past have utilized "closed data
 
 `Results of their business so far:`
 
+Impact on the financial industry: 
+
+> **8/10 of the largest hedge funds use Quandl** 
+
+> **14/15 of the largest banks use Quandl**
+                
+> **10 million daily downloads**
+
+Metrics used to determine success in the domain: 
+
+One of the core metrics used to determine and measure success of companies in this domain is number of users on the platform. An increase in the number of users gives signals to the compoany that their product or service is having a positive impact in the market and gaining market share. Using this metic to measure success means there must be a correlation between the number of users on a platform and the company performance. At Quandl the following company metrics have been essential in measuirng and recognizing their success and performance so far: 
+
+   - In Q1 of 2017 Quandl reached the 200,000+ users benchmark
+   
+   - A year later in Q1 of 2018 the company had reached 300,000+ users on the platform benchmark 
+   
+   - In Q3 of 2018 Quandl was involved in a stratgic aquistion by Nasdaq
+
+
+
+
 
