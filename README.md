@@ -71,7 +71,7 @@ Implementing alternative data sets:
 
 Financial Domain - Captial Investment  
 
-Finetch in the captial investment domain is driven by the needs of market particpants whos purpose is to gain deep insight into technolgies and alternate business models (Bailey, 2016). A major factor involved in captial investment decisions for investors is data/information available for use. An investors ease of access to financial services, for example access to high quality and reliable data services, while analyzing capital investment decesisons is imperative to making well informed chocies and developing desired financial models. Fintech innovations in this domain have disrupted the traditonal methods assocaited with finaincial institutions methods of data/information collection. The combination of big data tools and analytics being utilized in the captial invesment domain have had a significant impact in terms of solutions availble to consumers regarding the preperation and interpretation of data (Bailey, 2016). Quandl is a company which has excelled in the capital investment domain within the financial industry from the products they have developed and offered to investors through fintech. The evolution of fintech promises to reshape traditonal capital investment domain by cutting costs, improving the quality of financial services availble, and creating a more diverse and stable financial landscape (Lee & Shin, 2017). 
+Finetch in the captial investment domain is driven by the needs of market particpants whos purpose is to gain deep insight into technolgies and alternate business models (Bailey, 2016). A major factor involved in captial investment decisions for investors is data/information available for use. An investors ease of access to financial services, for example access to high quality and reliable data services, while analyzing capital investment decesisons is imperative to making well informed chocies and developing desired financial models. Fintech innovations in this domain have disrupted the traditonal methods assocaited with finaincial institutions collection and interpretaton of data/information. The combination of big data tools and analytics being utilized in the captial invesment domain have had a significant impact in terms of solutions availble to consumers regarding the preperation and interpretation of data (Bailey, 2016). Quandl is a company which has excelled in the capital investment domain within the financial industry from the products they have developed and offered to investors through fintech. The evolution of fintech promises to reshape traditonal capital investment domain by cutting costs, improving the quality of financial services availble, and creating a more diverse and stable financial landscape (Lee & Shin, 2017). The accuracy, speed, and cost reduction metrics associated with the utilization of Quandl data packages offers a clear competetive advantge to investors operating in a consistently evolving finaical industry that is heavily influenced by new finaicial tehonolgy. 
 
 
 > "We are the preeminent aggregator of alternative data with a platform that enables innovation far beyond what can be accomplished with traditional market feeds."(Quandl, 2023)
@@ -113,7 +113,7 @@ One of the core metrics used to determine and measure success of companies in th
 
 `Recommendations:`
 
-
+Fintech has the power to help traditional finaincal institutions/investors transition to new business models and access new areas of potiential growth. One recommendation i would suggest
 
 
 
