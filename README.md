@@ -125,7 +125,7 @@ The new technology ultlized to create packages that also offer risk assement ana
 
 ---
 
-> **Resources used: 
+> **Resources used:** 
 
 https://data.nasdaq.com/
 
