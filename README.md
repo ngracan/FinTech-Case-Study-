@@ -85,5 +85,10 @@ Many companies and financial institutions in the past have utilized "closed data
 
 ![](Fintech.png)
 
+**Major competitors in the domain:** 
+
+1. Redis - California, United States: Redis is the sponsor of the open source database and delivers an enterprise-grade data platform to power real-time experiences (Crunchbase, 2023).
+
+2. Preqin - London, United Kingdom: Preqin is a investment data company that provides financial data and insight on the alternative assets market, as well as tools to support investment in alternatives (Preqin, 2023). 
 
 
