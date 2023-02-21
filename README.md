@@ -117,6 +117,12 @@ Fintech has the power to help traditional finaincal institutions/investors trans
 
 > "Much of the funding for capital markets AI solutions has been deployed at firms with proprietary IP focused on finding patterns and addressing complex problems that traditionally required vast human capacity to solve." (Bailey, 2016)
 
+I would recommmed that Quandl continues to bolster and amplify thier data packages by incorpating technology to perform robust data analysis tools that provide correlations between potiential areas of investment and risks assocatied with invenstments in those areas. 
+
+Quandl's data packages are dervived from a range of publishers unparrled to most competitors. Quandl could leverage their in-depth database of publishers to incorprate complex risk assesment analyses in their packages that generate correlations between the risk associated with certain areas of investment expenditutures. Quandl is already a leader in the financial services industry with the unique data packages they offer and have been contiualy reducing the unfavorable tasks associated with invesment analysis since they were established. Investing in the development of techonolgy to streamline another portion of the invesment analysis framework should continue to benfit the companys reputation surrounding the quality and unqiue factor of their products offered, while simultaneouly helping them progress further in their mission as a company.  
+
+The new technology ultlized to create packages that also offer risk assement analyses, would include artificial intelleginece (AI) and machine learning (ML) applications. AI and ML techonolgies will have the power to quickly perform and solve complex risk assements of areas for potiential investment, reducing the potienial for human errors and misleading advice. 
+
 
 
 
