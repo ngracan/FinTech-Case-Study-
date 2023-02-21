@@ -71,7 +71,7 @@ Implementing alternative data sets:
 
 Financial Domain - Captial Investment  
 
-Finetch in the captial investment domain is driven by the needs of market particpants whos purpose is to gain deep insight into technolgies and alternate business models (Bailey, 2016). A major factor involved in captial investment decisions is data/information. An investors ease of access to high quality, reliable data while making investment decesisons is crucial to making the right chocies and developing the proper models. Financial Technolgy innovations in this domain have disrupted the traditonal methods assocaited with finaincial institutions methods of data/information collection. Quandl is a company which has excelled in the capital investment domain within the financial industry from the products they have developed and offered to investors through fintech.
+Finetch in the captial investment domain is driven by the needs of market particpants whos purpose is to gain deep insight into technolgies and alternate business models (Bailey, 2016). A major factor involved in captial investment decisions for investors is data/information available for use. An investors ease of access to financial services, for example access to high quality and reliable data services, while analyzing capital investment decesisons is imperative to making well informed chocies and developing desired financial models. Fintech innovations in this domain have disrupted the traditonal methods assocaited with finaincial institutions methods of data/information collection. The combination of big data tools and analytics being utilized in the captial invesment domain have had a significant impact in terms of solutions availble to consumers regarding the preperation and interpretation of data (Bailey, 2016). Quandl is a company which has excelled in the capital investment domain within the financial industry from the products they have developed and offered to investors through fintech. The evolution of fintech promises to reshape traditonal capital investment domain by cutting costs, improving the quality of financial services availble, and creating a more diverse and stable financial landscape (Lee & Shin, 2017). 
 
 
 > "We are the preeminent aggregator of alternative data with a platform that enables innovation far beyond what can be accomplished with traditional market feeds."(Quandl, 2023)
@@ -110,6 +110,8 @@ One of the core metrics used to determine and measure success of companies in th
    - A year later in Q1 of 2018 the company had reached 300,000+ users on the platform benchmark 
    
    - In Q3 of 2018 Quandl was involved in a stratgic aquistion by Nasdaq
+
+`Recommendations:`
 
 
 
