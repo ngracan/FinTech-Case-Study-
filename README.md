@@ -69,9 +69,12 @@ Implementing alternative data sets:
  
 `Financial Landscape:`
 
-Financial Domain: 
+Financial Domain - Captial Investment  
 
-Quandl is a company which has excelled in the capital investment domain wihtin the financial industry. 
+Finetch in the captial investment domain is driven by the needs of market particpants whos purpose is to gain deep insight into technolgies and alternate business models (Bailey, 2016). A major factor involved in captial investment decisions is data/information. An investors ease of access to high quality, reliable data while making investment decesisons is crucial to making the right chocies and developing the proper models. Financial Technolgy innovations in this domain have disrupted the traditonal methods assocaited with finaincial institutions methods of data/information collection. Quandl is a company which has excelled in the capital investment domain wihtin the financial industry from the products they have developed and offered to investors through fintech.
+
+
+
 
 
 
