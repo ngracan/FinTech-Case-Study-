@@ -46,7 +46,7 @@ Unparalled consumption expereince offered by Quandls services can help organizat
 
 **Technology behind Quandl:**
 
-Quandl technology permits data access via an application program interface (API), which allows customers to customize the information in a format that is suitable for their needs (Smith, 2022). 
+Quandl technology permits data access via an application program interface (API), which allows customers to customize the information in a format that is suitable for their needs (Smith, 2022). Quandl have been building and developing the technology and data science to support their data offerings since 2014. 
 
 Quandl has intergrations with most major programing languages and analytical tools. Inclduing the following: 
    - API
@@ -84,15 +84,6 @@ Finetch in the captial investment domain is driven by the needs of market partic
 Many companies and financial institutions in the past have utilized "closed data" processes regarding the storage and accessibility of thier data. Traditional methods of retrieving and accessing data for investment decisions come with challenges and lengthily processes, that involve extracting, formatting and filtering raw data to make it meet your specific needs. Machine learning algorithms and artificial intelligence have been used to automate and increases efficiency’s relating to data retrieval processes. New financial technology has allowed data to be gathered, analyzed and utilized at speeds the traditional methods could never reach. 
 
 ![](Fintech.png)
-
-
-
-
-
-
-
-
-
 
 
 
