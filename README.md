@@ -75,9 +75,7 @@ Finetch in the captial investment domain is driven by the needs of market partic
 
 > "We are the preeminent aggregator of alternative data with a platform that enables innovation far beyond what can be accomplished with traditional market feeds."(Quandl, 2023)
 
-
-![]()
-
+![](
 ---
 
 Many companies and financial institutions in the past have utilized "closed data" processes regarding the storage and accessibility of thier data. Traditional methods of retrieving and accessing data for investment decisions come with challenges and lengthily processes, that involve extracting, formatting and filtering raw data to make it meet your specific needs. Machine learning algorithms and artificial intelligence have been used to automate and increases efficiency’s relating to data retrieval processes. New financial technology has allowed data to be gathered, analyzed and utilized at speeds the traditional methods could never reach. 
