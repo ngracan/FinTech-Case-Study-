@@ -55,7 +55,7 @@ Quandl has intergrations with most major programing languages and analytical too
    - Excel 
    - Ruby 
 
-Data is aquired through human curators pointing their bots at specific data sets, as opposed to searching the web as a whole, to then utilize pre-determined algorithms and machine learning to extract the desired unique and significant data (Machlis, 2013).  
+Data is aquired through human curators pointing their bots at specific data sets, as opposed to searching the web as a whole, to then utilize pre-determined algorithms and big data tools to extract the desired unique and significant data (Machlis, 2013).  
 
 Quandl leverages technology that enables it to source, screen and analyze unique data from non-traditional publishers which fuels trading models. The data is packaged and productized into feeds that do everyhting from ehancing fundamental stratgeies to powering the most sophisticated machine learning apporches in use today (Quandl, 2023). 
 
@@ -113,7 +113,12 @@ One of the core metrics used to determine and measure success of companies in th
 
 `Recommendations:`
 
-Fintech has the power to help traditional finaincal institutions/investors transition to new business models and access new areas of potiential growth. One recommendation i would suggest
+Fintech has the power to help traditional finaincal institutions/investors transition to new business models and access new areas of potiential growth.
+
+> "Much of the funding for capital markets AI solutions has been deployed at firms with proprietary IP focused on finding patterns and addressing complex problems that traditionally required vast human capacity to solve." (Bailey, 2016)
+
+
+
 
 
 
