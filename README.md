@@ -25,6 +25,8 @@ The idea and innovation behind this company was driven by two main beliefs held 
 
 The funding for Quandl has been raised over 4 seperate rounds so far including: a Seed Round, Series A & Series B rounds, and the latest round of funding from a Venture Series (Crunchbase, 2023). Quandl has raised a total amount of CA$20.4M in funding so far (Crunchbase, 2023). Two of the most recent investors in the company are growX ventures and August Capital. 
 
+---
+
 `Business Activities:`
 
 Fintech development, in most cases, serves the purpose of solving an exsisting financial problem and/or increasing efficiencies relating to methods used in traditional financial domains. Quandl believes the ability to make alpha (profit) generating investment decisions is rooted in resources like high quality and unique data; finding this data for yourself can be difficult and prolonged in most cases. Quandl aims to solve this financial problem by uncovering valuable data that is difficult to find, shaping it and sharing it with their clients. Technological developments in areas of infrastructure, big data and data analytics have allowed fintech startups to disintermediate traditional financial firms with unique, niche, and personalized services (Lee & Shin, 2017). At Quandl the belief is that there are new and better ways to understand complex information that creates markets and fuels market movements. The goal is to utilize their technology to find opportunities in places people normally would not think to look, and then insipre their customers to make new discoveries and incorprate them into their trading strategies (Quandl, 2023). 
@@ -68,7 +70,9 @@ Implementing alternative data sets:
  - *Investors leveraging alternative data sets provide real time insights and trade patterns data to help traders improve foecasting models.(Quandl, 2023)*
 
  - *Alternative Data sets provide daily and weekly consumer transactions and good movement measurments, employment trends, and other relavent macro-economic indicators and information.(Quandl, 2023)*
- 
+
+---
+
 `Financial Landscape:`
 
 **Financial Domain - Capital Investment** 
@@ -112,6 +116,8 @@ One of the core metrics used to determine and measure success of companies in th
    - **A year later in Q1 of 2018 the company had reached 300,000+ users on the platform benchmark (Quandl, 2023)**
    
    - **In Q3 of 2018 Quandl was involved in a strategic aquistion by Nasdaq (Quandl, 2023)**
+
+---
 
 `Recommendations:`
 
