@@ -2,7 +2,7 @@
 
 ## *Financial Technology (Fintech) disrupting traditional Capital Investment Services* 
 
-**Company of interest: Quandl** 
+**Company of interest: Quandl**     - [Company Website](https://demo.quandl.com/)
 
 ![](quandl_logo.png)
 
