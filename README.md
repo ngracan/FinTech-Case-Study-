@@ -123,11 +123,11 @@ Investment technology firms are offering financial instituions of all sizes the 
 
 Quandl's data packages are derived from a pool of publishers unparrled to most competitors. Quandl could leverage their access to the pool of publishers to incorporate complex risk assesment data in their packages that generate analysis that points out correlations between the risk associated with certain areas of investment expenditutures. Quandl is already a leader in the financial services industry with the unique data packages they offer and have been continualy reducing the unfavorable tasks associated with invesment analysis since they were established. Investing in the development of techonolgy to streamline another portion of the invesment analysis framework should continue to benfit the companys reputation surrounding the quality and unqiue factor of their products offered, while simultaneously helping them progress further in their mission as a company.  
 
-The new technology ultilized to create packages that also offer risk assesment analysis, would include aspects of artificial intelleginece (AI) and machine learning (ML) applications to enable the enormous amounts of data to be analyzed in-depth and to yield the most meaninglful information/insights from it. AI and ML techonolgies will have the power to quickly perform and solve complex risk assements of areas for potiential investment, reducing the potienial for human errors and misleading data/recommendations. 
+The new technology ultilized to create packages that also offer risk assesment analysis, would include aspects of artificial intelleginece (AI) and machine learning (ML) applications to enable the enormous amounts of data to be analyzed in-depth and to yield the most meaningful information/insights from it. AI and ML techonolgies will have the power to quickly perform and solve complex risk assements of areas for potiential investment, reducing the potienial for human errors and misleading data/recommendations. 
 
 ---
 
-> **Resources used:** 
+# **Resources used:** 
 
 https://data.nasdaq.com/
 
@@ -149,7 +149,7 @@ https://www.crunchbase.com/organization/quandl
 
 https://www.investopedia.com/articles/markets/081116/5-fintech-firms-emerging-canada-mftgf-vggof.asp
 
-https://d1wqtxts1xzle7.cloudfront.net/60183957/BH865-PDF-ENG__Fintech__Ecosystem__business_models_20190801-95998-19ksrtq-libre.pdf?1564728494=&response-content-disposition=inline%3B+filename%3DScienceDirect_Fintech_Ecosystem_business.pdf&Expires=1676826619&Signature=F3r8xRdwRn2iEOq90V5NPvQlWQZGgHBqRS4SNN-2N48L~PgtiQMWV2lTcnpSVIdjUgQ37zpAlEyHF-YFlVvNtV76wx5nnZ1ACITENj650dhQg4p~PNMpgSG~B8r31N-MXtlOLs1Ld1grCkLL4SoHJZPkNDlEYkAsZYXukPBza8TetHW2Ip3JAAJ3Z7Xdsw1kwtTjGYb3OPBXNVB~UhZY-mZumy7jaNWuSzMP6NJokPtph~vt0CvIhWp8g3wImvDjM8D9iSIS0wm8QmRmhocnM7H9y8wgv4YvATOeJu9CVCyyoinOOltZRW6gLLzcwcj0-ApRH9dXbsU3HJCBjddJ~Q__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+https://d1wqtxts1xzle7.cloudfront.net/60183957/BH865-PDF-ENG__Fintech__Ecosystem__business_models_20190801-95998-19ksrtq-libre.pdf?1564728494=&response-content-disposition=inline%3B+filename%3DScienceDirect_Fintech_Ecosystem_business.pdf
 
 https://www.investopedia.com/terms/f/fintech.asp
 
