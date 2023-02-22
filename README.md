@@ -96,6 +96,8 @@ Many companies and financial institutions in the past have utilized "closed data
 
 2. Preqin - London, United Kingdom: Preqin is a investment data company that provides financial data and insight on the alternative assets market, as well as tools to support investment in alternatives (Preqin, 2023). 
 
+---
+
 `Results of their business so far:`
 
 Impact on the financial industry: 
