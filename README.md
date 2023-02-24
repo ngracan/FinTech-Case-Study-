@@ -162,3 +162,4 @@ https://www.investopedia.com/terms/f/fintech.asp
 
 https://stackshare.io/quandl/quandl
 
+https://www.academia.edu/download/60183957/BH865-PDF-ENG__Fintech__Ecosystem__business_models_20190801-95998-19ksrtq.pdf
