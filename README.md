@@ -163,3 +163,6 @@ https://www.investopedia.com/terms/f/fintech.asp
 https://stackshare.io/quandl/quandl
 
 https://www.academia.edu/download/60183957/BH865-PDF-ENG__Fintech__Ecosystem__business_models_20190801-95998-19ksrtq.pdf
+
+[Lee & Shin, Fintech](https://d1wqtxts1xzle7.cloudfront.net/60183957/BH865-PDF-ENG__Fintech__Ecosystem__business_models_20190801-95998-19ksrtq-libre.pdf?1564728494=&response-content-disposition=inline%3B+filename%3DScienceDirect_Fintech_Ecosystem_business.pdf&Expires=1677275559&Signature=N3Srv2c2j4W4zAZsbEh51BxtpZ61DFtSaSS9Ve8irWMbDimgagfzcnKvQKvzdKQ~uQdvCt1b89JdnVbRGLySb7S0ip4yryIoSwv8TOl2OTOOAYw~boe3NbLGIGoUO~GhgnelAeGGN-MQtuBsEQ~VJLBGvgvMCahHu7-Rl38rZJmFY9NOHmzRICRqtREl6Ms65Nj7hHhNPErSlFxVk~sUSbsvh-R72GxViL5tIuDwfQY-y6uZKvq0O3ggr7VD-6ijQc1Nf6hIt5swYBOoFU3GMGSZaMC13aoibbUAL7herOO0esM2ad-u5PzxevOORmflc5HO92ykPxHacSDi4AYmdw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+
