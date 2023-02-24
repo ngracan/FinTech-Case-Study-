@@ -110,7 +110,7 @@ Impact on the financial industry:
 
 Metrics used to determine success in the domain: 
 
-One of the core metrics used to determine and measure success of companies in this domain is number of users on the platform. An increase in the number of users gives signals to the compoany that their product or service is having a positive impact in the market and gaining market share most likley. Using this metric to measure success means there must be a correlation between the number of users on a platform and the company performance. At Quandl the following company metrics have been essential in measuring and recognizing their success and performance so far: 
+One of the core metrics used to determine and measure success of companies in this domain is number of users on the platform. An increase in the number of users gives signals to the company that their product or service is having a positive impact in the market and gaining market share in most cases. Using this metric to measure success means there must be a correlation between the number of users on a platform and the company performance. At Quandl the following company metrics have been essential in measuring and recognizing their success and performance so far: 
 
    - **In Q1 of 2017 Quandl reached the 200,000+ users benchmark (Quandl, 2023)**
    
@@ -126,11 +126,11 @@ Fintech has the power to help traditional financial institutions/investors trans
 
 > *"Much of the funding for capital markets AI solutions has been deployed at firms with proprietary IP focused on finding patterns and addressing complex problems that traditionally required vast human capacity to solve." (Bailey, 2016)*
 
-Investment technology firms are offering financial instituions of all sizes the tools for monitoring markets and allowing for better decisions based data analysis (Bailey, 2016). I would recommmed that Quandl continues to bolster and amplify thier data packages by incorporating technology to perform robust data analysis that provides correlations between potiential areas of investment and risks associated with investments in those areas. 
+Investment technology firms are offering financial instituions of all sizes the tools for monitoring markets and allowing for better decisions based data analysis (Bailey, 2016). I would recommend that Quandl continues to bolster and amplify thier data packages by incorporating technology to perform robust data analysis that generates correlations between potiential areas of investment and risks associated with investments in those areas. 
 
-Quandl's data packages are derived from a pool of publishers unparrled to most competitors. Quandl could leverage their access to the pool of publishers to incorporate complex risk assesment data in their packages that generate analysis that points out correlations between the risk associated with certain areas of investment expenditutures. Quandl is already a leader in the financial services industry with the unique data packages they offer and have been continualy reducing the unfavorable tasks associated with invesment analysis since they were established. Investing in the development of techonolgy to streamline another portion of the invesment analysis framework should continue to benfit the companys reputation surrounding the quality and unqiue factor of their products offered, while simultaneously helping them progress further in their mission as a company.  
+Quandl's data packages are derived from a pool of publishers unparrled to most competitors. Quandl could leverage their access to the pool of publishers to incorporate complex risk assesment data in their packages that generate analysis that points out correlations between the risk associated with certain areas of investment expenditutures. Quandl is already a leader in the financial services industry with the unique data packages they offer and have been continually reducing the unfavorable tasks associated with invesment analysis since they were established. Investing in the development of techonolgy to streamline another portion of the invesment analysis framework should continue to benfit the companys reputation surrounding the quality and unique factor of their products offered, while simultaneously helping them progress further in their mission as a company.  
 
-The new technology ultilized to create packages that also offer risk assesment analysis, would include aspects of artificial intelleginece (AI) and machine learning (ML) applications to enable the enormous amounts of data to be analyzed in-depth and to yield the most meaningful information/insights from it. AI and ML techonolgies will have the power to quickly perform and solve complex risk assements of areas for potiential investment, reducing the potiential for human errors and misleading data/recommendations. 
+The new technology ultilized to create packages that also offer risk assesment analysis, would include aspects of artificial intelligence (AI) and machine learning (ML) applications to enable the enormous amounts of data to be analyzed in-depth and to yield the most meaningful information/insights from it. AI and ML techonolgies will have the power to quickly perform and solve complex risk assesments of areas for potiential investment, reducing the potiential for human errors and misleading data/recommendations. 
 
 ---
 
@@ -156,13 +156,9 @@ https://www.crunchbase.com/organization/quandl
 
 https://www.investopedia.com/articles/markets/081116/5-fintech-firms-emerging-canada-mftgf-vggof.asp
 
-https://d1wqtxts1xzle7.cloudfront.net/60183957/BH865-PDF-ENG__Fintech__Ecosystem__business_models_20190801-95998-19ksrtq-libre.pdf?1564728494=&response-content-disposition=inline%3B+filename%3DScienceDirect_Fintech_Ecosystem_business.pdf
-
 https://www.investopedia.com/terms/f/fintech.asp
 
 https://stackshare.io/quandl/quandl
-
-https://www.academia.edu/download/60183957/BH865-PDF-ENG__Fintech__Ecosystem__business_models_20190801-95998-19ksrtq.pdf
 
 [Lee & Shin, Fintech](https://d1wqtxts1xzle7.cloudfront.net/60183957/BH865-PDF-ENG__Fintech__Ecosystem__business_models_20190801-95998-19ksrtq-libre.pdf?1564728494=&response-content-disposition=inline%3B+filename%3DScienceDirect_Fintech_Ecosystem_business.pdf&Expires=1677275559&Signature=N3Srv2c2j4W4zAZsbEh51BxtpZ61DFtSaSS9Ve8irWMbDimgagfzcnKvQKvzdKQ~uQdvCt1b89JdnVbRGLySb7S0ip4yryIoSwv8TOl2OTOOAYw~boe3NbLGIGoUO~GhgnelAeGGN-MQtuBsEQ~VJLBGvgvMCahHu7-Rl38rZJmFY9NOHmzRICRqtREl6Ms65Nj7hHhNPErSlFxVk~sUSbsvh-R72GxViL5tIuDwfQY-y6uZKvq0O3ggr7VD-6ijQc1Nf6hIt5swYBOoFU3GMGSZaMC13aoibbUAL7herOO0esM2ad-u5PzxevOORmflc5HO92ykPxHacSDi4AYmdw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 
